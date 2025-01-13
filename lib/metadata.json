@@ -1,0 +1,262 @@
+{
+  "vaultName": "ob1",
+  "lastExport": 1736791755708,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "job/DoctorPurple's Portfolio.md",
+    "lib/media/baa-1.mkv",
+    "lib/media/menus-1.mkv",
+    "lib/media/running-1.mkv",
+    "lib/media/crates-1.mkv",
+    "lib/media/td-1.mkv",
+    "lib/media/lobby-matchmaking-1.mkv",
+    "lib/media/cardboard-aliens-2.mkv",
+    "lib/media/custom-chassis-1.mkv",
+    "lib/media/gun-demo-1.mkv",
+    "lib/media/debug-1.mkv",
+    "lib/media/sticky-hand.mkv",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "job/DoctorPurple's Portfolio.md": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 4845,
+      "exportedPath": "job/doctorpurple's-portfolio.html",
+      "dependencies": [
+        "lib/media/baa-1.mkv",
+        "lib/media/menus-1.mkv",
+        "lib/media/running-1.mkv",
+        "lib/media/crates-1.mkv",
+        "lib/media/td-1.mkv",
+        "lib/media/lobby-matchmaking-1.mkv",
+        "lib/media/cardboard-aliens-2.mkv",
+        "lib/media/custom-chassis-1.mkv",
+        "lib/media/gun-demo-1.mkv",
+        "lib/media/debug-1.mkv",
+        "lib/media/sticky-hand.mkv"
+      ]
+    },
+    "lib/media/baa-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 11322808,
+      "exportedPath": "lib/media/baa-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/menus-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 15095173,
+      "exportedPath": "lib/media/menus-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/running-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 14624788,
+      "exportedPath": "lib/media/running-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/crates-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 5643422,
+      "exportedPath": "lib/media/crates-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/td-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 11820573,
+      "exportedPath": "lib/media/td-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/lobby-matchmaking-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 7944566,
+      "exportedPath": "lib/media/lobby-matchmaking-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/cardboard-aliens-2.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 19983935,
+      "exportedPath": "lib/media/cardboard-aliens-2.mkv",
+      "dependencies": []
+    },
+    "lib/media/custom-chassis-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 10258470,
+      "exportedPath": "lib/media/custom-chassis-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/gun-demo-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 6680887,
+      "exportedPath": "lib/media/gun-demo-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/debug-1.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 4243533,
+      "exportedPath": "lib/media/debug-1.mkv",
+      "dependencies": []
+    },
+    "lib/media/sticky-hand.mkv": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 4228136,
+      "exportedPath": "lib/media/sticky-hand.mkv",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1736791755708,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ob1]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ob1</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 13 Jan 2025 18:09:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Jan 2025 18:09:15 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[DoctorPurple's Portfolio]]></title><description><![CDATA[ 
+ <br>The following games and projects have all been programmed completely by me except where explicitly stated otherwise.<br><a data-tooltip-position="top" aria-label="https://www.roblox.com/games/1242235469/ball-and-axe" rel="noopener nofollow" class="external-link" href="https://www.roblox.com/games/1242235469/ball-and-axe" target="_blank">ball and axe</a>  2021 110M visits<br>
+Immersive and mechanically unique obstacle/platforming game with a focus on speedrunning<br><a data-tooltip-position="top" aria-label="https://www.roblox.com/games/16785776740/War-Engines" rel="noopener nofollow" class="external-link" href="https://www.roblox.com/games/16785776740/War-Engines" target="_blank">War Engines</a> 2024 13M visits<br>
+Original vehicle building adventure game<br><a data-tooltip-position="top" aria-label="https://www.roblox.com/games/12955208871/block-and-pickaxe" rel="noopener nofollow" class="external-link" href="https://www.roblox.com/games/12955208871/block-and-pickaxe" target="_blank">block and pickaxe</a> 2023 14M* visits (unsupported)<br>
+Minecraft inspired April fools version of ball and axe <br><a data-tooltip-position="top" aria-label="https://www.roblox.com/games/5994879956/Cardboard-Aliens" rel="noopener nofollow" class="external-link" href="https://www.roblox.com/games/5994879956/Cardboard-Aliens" target="_blank">Cardboard Aliens</a> 2020 (unsupported since 2021)<br>
+Wave defense game with building mechanics<br>Below are features of the mentioned games alongside features of unreleased personal projects.<br><br><br>
+Here you can see:<br>
+<br>A dynamic speedrun split timer 
+<br>A round end screen that displays your weekly and daily leaderboard position (lag is due to studio logging)
+<br>A leaderboard that displays your current position on either sort
+<br>-times may seem inaccurate due to testing settings<br>
+-leaderboards are handled completely on Roblox using datastores<br><br>
+ball and axe also contains:<br>
+<br>A separate income source from breakable crates (that can also award you an item)
+<br>An inventory where you can buy items or random item crates
+<br>A character customization system
+<br>A highly customizable settings menu
+<br>A low gravity gamepass unlocked mode
+<br>Not in videos: Localized interactable objects such as buttons or levers that can spawn boxes or activate fans that blow the player around; Super effective physics based anti-cheat<br>
+-all of this is fully playable<br>
+-spectate and color picker features were not made by me<br>
+ball and axe is in total only 8300 lines
+<br><br><br>
+This video presents:<br>
+<br>Instantaneous vehicle block assembly using largely constraints
+<br>Motor torque is calculated correctly to each wheel and accepts all input types
+<br>Loss of traction causes smoke depending on the surface (such as from hard braking)
+<br>Cannons have recoil that can be used as a thrust
+<br>Cannons only shoot if within an angle of the target
+<br>Blocks and structures either take damage until they break or break from an impact too strong
+<br>Modular source of income from the end of a run
+<br><br>
+Shown here:<br>
+<br>Intuitive building controls, with dedicated controls for mobile and for console
+<br>Block shop that shows contents and their percentage chances (each crate can award multiple blocks)
+<br>Not in videos: Modular and incredibly simple to use weather system<br>
+-all of this is fully playable<br>
+War Engines is in total only 4600 lines
+<br><br><br>
+This video displays:<br>
+<br>A round system with a ready up to skip intermission mechanic 
+<br>An enemy system that only renders the characters locally
+<br>A turret placement system
+<br>And a player chosen weapon that is able to damage enemies in multiple different ways such as with the lightning ability which dynamically chains damage
+<br>The same project also included:<br>
+<br>
+<br>A shop for turrets and staffs
+<br>A fully functional match making system that initializes all round systems
+<br><br><br>
+This game had prominently:<br>
+<br>A building system which affected a very simple resource effective node based custom path finding system
+<br>A basic gun system
+<br>Grenades
+<br>Immersive shops
+<br>A round and level system
+<br>16 easily customizable wave and a boss enemy with custom attacks
+<br>A Risk of Rain inspired item system that granted stat boosts<br>
+-Datastore2 module used for this game not made by me
+<br><br><br>
+<br>Completely force driven wheels/tires with a constraint based chassis
+<br>This chassis presents also Ackermann steering, torsion bars and double wishbone suspension (although with inverted geometry)
+<br>Other chassis can be seen in the background; they are all physics driven but have tons of differing characteristics like a solid rear axle, simpler chassis, and so on
+<br><br><br>
+Here you can see:<br>
+<br>A dynamic crosshair that responds both to shots and player movement
+<br>Running 
+<br>Basic recoil
+<br>Weapon swapping system
+<br><br>
+This project also has:<br>
+<br>Some debug tools made for it (graphing tool and variable tracker)
+<br>A basic implementation of Roblox's path finding service
+<br><br><br>
+<br>Fully replicated throwable sticky hands that stick only to desired objects
+<br>Hands were made to be a completely independent, easily multipliable system
+<br>This was written completely in OOP
+<br>In order to keep this under a manageable length, lots of projects were excluded]]></description><link>job\doctorpurple&apos;s-portfolio.html</link><guid isPermaLink="false">job/DoctorPurple&apos;s Portfolio.md</guid><pubDate>Mon, 13 Jan 2025 15:23:06 GMT</pubDate></item></channel></rss>
